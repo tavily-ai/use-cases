@@ -4,7 +4,7 @@ Welcome to the repository showcasing various use cases of Tavily in simple Jupyt
 
 ### Notebooks Included
 
-1. **Data Enrichment Agent**  
+1. **Data Enrichment**  
    
    The notebook `data_enrichment_agent.ipynb` demonstrates how to enrich data by populating missing values using Tavily, the LangGraph Framework, and OpenAI. It accepts CSV, Excel files, or Google Sheets as input and generates an updated dataset with the missing data filled in.
 
