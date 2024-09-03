@@ -10,7 +10,7 @@ Welcome to the repository showcasing various use cases of Tavily in simple Jupyt
 
 2. **Company Research**
 
-    The notebook `company_research.ipynb` automates weekly company research reports by using Tavily for up-to-date information, the LangGraph Framework for data processing, and OpenAI for content generation. It gathers and validates information with citations, then compiles it into a detailed PDF report, streamlining company analysis.
+    The notebook `company_research.ipynb` demonstrates how to generate company research reports by using Tavily for up-to-date information, the LangGraph Framework for data processing, and OpenAI for content generation. It gathers and validates information with citations, then compiles it into a detailed PDF report, streamlining company analysis.
 
 ---
 
